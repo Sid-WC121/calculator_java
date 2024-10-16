@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">calculator_java</string>
+    <string name="Calc">CALCULATOR</string>
+    <string name="plus_sign">+</string>
+    <string name="minus_sign">-</string>
+
+</resources>
